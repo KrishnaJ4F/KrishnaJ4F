@@ -14,6 +14,13 @@ from predicting house prices to detecting smartphone addiction patterns in stude
 
 Currently building my portfolio and open to **Data Analyst / Junior Data Scientist** roles.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -22,7 +29,7 @@ Currently building my portfolio and open to **Data Analyst / Junior Data Scienti
 |---|---|
 | Languages | Python, SQL |
 | Data Analysis | Pandas, NumPy, Excel |
-| Visualisation | Matplotlib, Seaborn, Plotly |
+| Visualisation | Matplotlib, Seaborn, Plotly, Power BI |
 | Machine Learning | Scikit-learn, Linear/Logistic Regression, Random Forest, Clustering |
 | Deployment | Streamlit |
 | Database | MySQL |
